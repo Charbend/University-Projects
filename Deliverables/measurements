@@ -1,0 +1,40 @@
+url mercadolibre.com.ar, recv_addr: 13.249.44.103, recv_name: server-13-249-44-103.iad89.r.cloudfront.net, port from packet: 33434, hops: 14, RTT: 0.2904176712036133s
+matched by IP
+matched by port
+url vseigru.net, recv_addr: 178.162.215.85, recv_name: 178.162.215.85, port from packet: 33434, hops: 23, RTT: 0.6420254707336426s
+matched by IP
+matched by port
+url imis.tmall.com did not send data
+url urdupoint.com, recv_addr: 104.17.15.38, recv_name: 104.17.15.38, port from packet: 33434, hops: 9, RTT: 0.06226325035095215s
+matched by IP
+matched by port
+url uchi.ru, recv_addr: 104.20.180.17, recv_name: 104.20.180.17, port from packet: 33434, hops: 9, RTT: 0.64084792137146s
+matched by IP
+matched by port
+url billdesk.com did not send data
+url 360.cn, recv_addr: 36.110.213.10, recv_name: 36.110.213.10, port from packet: 33434, hops: 29, RTT: 3.6654021739959717s
+matched by IP
+matched by port
+url twitter.com, recv_addr: 104.244.42.193, recv_name: 104.244.42.193, port from packet: 33434, hops: 15, RTT: 0.12843894958496094s
+matched by IP
+matched by port
+url dropbox.com, recv_addr: 162.125.248.1, recv_name: 162.125.248.1, port from packet: 33434, hops: 11, RTT: 0.8005924224853516s
+matched by IP
+matched by port
+url booking.com did not send data
+url uol.com.br did not send data
+url google.com.tr, recv_addr: 172.217.7.131, recv_name: iad30s08-in-f3.1e100.net, port from packet: 33434, hops: 14, RTT: 0.12920713424682617s
+matched by IP
+matched by port
+url aliyun.com did not send data
+url hdfcbank.com, recv_addr: 104.18.94.72, recv_name: 104.18.94.72, port from packet: 33434, hops: 9, RTT: 0.03540945053100586s
+matched by IP
+matched by port
+url weather.com did not send data
+url rakuten.co.jp did not send data
+url target.com did not send data
+url tripadvisor.com, recv_addr: 192.229.162.112, recv_name: 192.229.162.112, port from packet: 33434, hops: 12, RTT: 1.9687657356262207s
+matched by IP
+matched by port
+url thesaurus.com did not send data
+url usps.com did not send data

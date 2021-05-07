@@ -1,0 +1,4 @@
+Drew Heald EECS 325 Project 2 results
+Correlation coefficient for my data was 0.68285095987773, which is a decent correlation, but I believe a few anomalous results brought the correlation down.
+With more data, I'm sure it would be higher.
+The high correlation would indicate that the more hops are necessary, the higher the RTT.

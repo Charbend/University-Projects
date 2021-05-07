@@ -1,0 +1,5 @@
+Drew Heald EECS 325 Project 2
+To run: in VM, type:
+	sudo python3 distMeasurement.py
+Program takes no arguments. If you want to test it with different websites, add them to the website txt file in the folder.
+Program prints results to terminal, and to a "measurements" txt file. I didn't delete the one I generated for the graph, so if you just run the program, it'll append to the existing file.
